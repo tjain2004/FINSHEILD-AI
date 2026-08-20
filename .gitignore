@@ -1,0 +1,13 @@
+models/random_forest.pkl
+featured/featured_transactions.csv
+featured/featured_with_graph.csv
+preprocessed/X_train.csv
+preprocessed/X_test.csv
+preprocessed/X_train_smote.csv
+preprocessed/y_train_smote.csv
+data/
+__pycache__/
+*.pyc
+.env
+*.log
+.ipynb_checkpoints/
